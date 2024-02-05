@@ -3,3 +3,9 @@
 # Definición
 
 Esto es una práctica de fp que consiste en hacer uso de Laravel un (mvc) basado en php . El objetivo de está práctica es realizar un libro interactivo que tenga una variación dentro de la historia.
+
+# Requisitos
+
+Esta página esta pensada para ser usada en entornos de escritorio, por lo tanto en caso de visitarla desde un dispositivo de resolución menor es posible que no se adapte. 
+# Demostración de uso
+
