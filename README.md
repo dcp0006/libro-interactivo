@@ -7,5 +7,11 @@ Esto es una práctica de fp que consiste en hacer uso de Laravel un (mvc) basado
 # Requisitos
 
 Esta página esta pensada para ser usada en entornos de escritorio, por lo tanto en caso de visitarla desde un dispositivo de resolución menor es posible que no se adapte. 
+
 # Demostración de uso
+
+<div>
+    <img src="https://github.com/dcp0006/libro-interactivo/blob/main/Imagenes/LibroCap1.png">
+</div>
+
 
